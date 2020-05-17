@@ -43,7 +43,7 @@
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>cloudwatchlogs</artifactId>
-            <version>2.10.19</version>
+            <version>2.10.49</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
@@ -73,11 +73,6 @@
             <artifactId>mockito-junit-jupiter</artifactId>
             <version>2.26.0</version>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.amazonaws</groupId>
-            <artifactId>aws-java-sdk-logs</artifactId>
-            <version>1.11.592</version>
         </dependency>
     </dependencies>
 
